@@ -1,12 +1,6 @@
 {
    "wallpapers": [
       {
-         "author": "John Orbit",
-         "url": "http://e2ua.com/data/wallpapers/179/WDF_2182938.jpg",
-         "name": "Example Image 1",
-         "thumbnail": "http://e2ua.com/data/wallpapers/179/WDF_2182938.jpg"
-      },
-      {
          "author": "Tom Wellington",
          "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
          "name": "Heads Up",
