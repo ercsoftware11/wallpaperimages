@@ -2,9 +2,9 @@
    "wallpapers": [
       {
          "author": "John Orbit",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+         "url": "http://e2ua.com/data/wallpapers/179/WDF_2182938.jpg",
          "name": "Example Image 1",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "thumbnail": "http://e2ua.com/data/wallpapers/179/WDF_2182938.jpg"
       },
       {
          "author": "Tom Wellington",
