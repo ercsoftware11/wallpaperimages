@@ -1,16 +1,16 @@
 {
    "wallpapers": [
       {
+         "author": "The Fighter",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/4man.jpg",
+         "name":"WMC 4 Man Weigh-In",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/4man_thumb.jpg"
+      },
+      {
          "author": "Microsoft",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/qwerty.jpg",
          "name": "Windows 10 Background",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/qwerty_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
       },
       {
          "author": "Tom Wellington",
