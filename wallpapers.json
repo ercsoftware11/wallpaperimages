@@ -42,11 +42,11 @@
          "name": "Material 7",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material7_thumb.jpg"
       },
-           {
+       {
          "author": "J Amourette",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8.png",
          "name": "Material 8",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8_thumb.png"
-      },
+      }
    ]
 }
