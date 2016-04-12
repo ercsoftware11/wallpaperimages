@@ -61,30 +61,6 @@
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1_thumb.png"
       },
       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material2.jpg",
-         "name":"Material 2",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material2_thumb.jpg"
-      },
-     {
-         "author": "Caveman",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3.png",
-         "name":"Material 3",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3_thumb.png"
-      },
-      {
-         "author": "Caveman",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4.png",
-         "name":"Material 4",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4_thumb.png"
-      },
-      {
-         "author": "Caveman",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5.jpg",
-         "name":"Material 5",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5_thumb.jpg"
-      },
-      {
          "author": "Google",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material6.jpg",
          "name":"Material 6",
@@ -92,39 +68,15 @@
       },
       {
          "author": "Caveman",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material7.jpg",
-         "name":"Material 7",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material7_thumb.jpg"
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5.png",
+         "name":"Material 5",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5_thumb.png"
       },
-      {
+     {
          "author": "Caveman",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8.jpg",
-         "name":"Material 8",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8_thumb.jpg"
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material9.png",
-         "name":"Material 9",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material9_thumb.png"
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10.png",
-         "name":"Material 10",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10_thumb.png"
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1.jpg",
-         "name":"Material 11",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material11_thumb.jpg"
-      },
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12.jpg",
-         "name":"Material 12",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12_thumb.jpg"
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3.png",
+         "name":"Material 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3_thumb.png"
       }
    ]
 }
