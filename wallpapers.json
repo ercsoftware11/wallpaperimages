@@ -55,6 +55,12 @@
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm9_thumb.jpg"
       },
       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidn1.png",
+         "name":"Android N   1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidn1_thumb.png"
+      },
+      {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1.png",
          "name":"Material 1",
