@@ -1,118 +1,130 @@
 {
    "wallpapers": [
       {
-         "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/drs1z1goolpbqul/material1.png",
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm1.jpg",
+         "name":"Android M   1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm1_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm2.jpg",
+         "name":"Android M   2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm2_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm3.jpg",
+         "name":"Android M   3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm3_thumb.jpg"
+      },
+        {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm4.jpg",
+         "name":"Android M   4",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm4_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm5.jpg",
+         "name":"Android M   5",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm5_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm6.jpg",
+         "name":"Android M   6",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm6_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm7.jpg",
+         "name":"Android M   7",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm7_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm8.jpg",
+         "name":"Android M   8",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm8_thumb.jpg"
+      },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm9.jpg",
+         "name":"Android M   9",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm9_thumb.jpg"
+      },
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1.png",
          "name":"Material 1",
-         "thumbnail": "https://dl.dropboxusercontent.com/s/shksbx3ouhj2odg/material1_thumb.png"
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1_thumb.png"
       },
       {
-         "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/9eh0kcy5bz167n7/material2.png",
-         "name": "Material 2",
-         "thumbnail": "https://dl.dropboxusercontent.com/s/l97qju8njo16ys2/material2_thumb.png"
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material2.jpg",
+         "name":"Material 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material2_thumb.jpg"
+      },
+     {
+         "author": "Caveman",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3.png",
+         "name":"Material 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material3_thumb.png"
       },
       {
-         "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/obz57o04h7fop0s/material3.png",
-         "name": "Material 3",
-         "thumbnail": "https://dl.dropboxusercontent.com/s/gfxpuj3cxj6bkda/material3_thumb.png"
+         "author": "Caveman",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4.png",
+         "name":"Material 4",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4_thumb.png"
       },
       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4.jpg",
-         "name": "Material 4",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material4_thumb.jpg"
+         "author": "Caveman",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5.png",
+         "name":"Material 5",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material5_thumb.png"
       },
       {
-         "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/84ptkqla42tzqyy/material5_thumb.jpg",
-         "name": "Material 5",
-         "thumbnail": "https://dl.dropboxusercontent.com/s/g4jfrqog24lunn1/material5.jpg"
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material6.jpg",
+         "name":"Material 6",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material6_thumb.jpg"
       },
       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material6.png",
-         "name": "Material 6",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material6_thumb.png"
-      },
-      {
-         "author": "J Amourette",
+         "author": "Caveman",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material7.jpg",
-         "name": "Material 7",
+         "name":"Material 7",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material7_thumb.jpg"
       },
       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8.png",
-         "name": "Material 8",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8_thumb.png"
+         "author": "Caveman",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8.jpg",
+         "name":"Material 8",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material8_thumb.jpg"
       },
-       {
-         "author": "J Amourette",
+      {
+         "author": "Unknown",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material9.png",
-         "name": "Material 9",
+         "name":"Material 9",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material9_thumb.png"
       },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10.jpg",
-         "name": "Material 10",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10_thumb.jpg"
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10.png",
+         "name":"Material 10",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10_thumb.png"
       },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material11.jpg",
-         "name": "Material 11",
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material1.jpg",
+         "name":"Material 11",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material11_thumb.jpg"
       },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12.png",
-         "name": "Material 12",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12_thumb.png"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material13.png",
-         "name": "Material 13",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material13_thumb.png"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material14.png",
-         "name": "Material 14",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material14_thumb.png"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material15.jpg",
-         "name": "Material 15",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material15_thumb.jpg"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material16.png",
-         "name": "Material 16",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material16_thumb.png"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material17.jpg",
-         "name": "Material 17",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material17_thumb.jpg"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material18.png",
-         "name": "Material 18",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material18_thumb.png"
-      },
-       {
-         "author": "J Amourette",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material19.png",
-         "name": "Material 19",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material19_thumb.png"
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12.jpg",
+         "name":"Material 12",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12_thumb.jpg"
       }
    ]
 }
