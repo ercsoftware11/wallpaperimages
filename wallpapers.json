@@ -1,10 +1,11 @@
 {
    "wallpapers": [
       {
+         
          "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/shksbx3ouhj2odg/material1_thumb.png",
+         "url": "https://dl.dropboxusercontent.com/s/drs1z1goolpbqul/material1.png",
          "name":"Material 1",
-         "thumbnail": "https://dl.dropboxusercontent.com/s/drs1z1goolpbqul/material1.png"
+         "thumbnail": "https://dl.dropboxusercontent.com/s/shksbx3ouhj2odg/material1_thumb.png"
       },
       {
          "author": "Kulendran Gobinthiran",
@@ -44,7 +45,7 @@
       },
       {
          "author": "Kulendran Gobinthiran",
-         "url": "https://dl.dropboxusercontent.com/s/xaw6do667y6p65g/material8.jpg,
+         "url": "https://dl.dropboxusercontent.com/s/xaw6do667y6p65g/material8.jpg",
          "name": "Material 8",
          "thumbnail": "https://dl.dropboxusercontent.com/s/b1az669bsdd8qay/material8_thumb.jpg"
       },
