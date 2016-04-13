@@ -173,6 +173,18 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia2.jpg",
          "name":"Xperia Style 2",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia2_thumb.jpg"
+      },
+      {
+         "author": "der_geraet",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia3.jpg",
+         "name":"Xperia Style 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia3_thumb.jpg"
+      },
+      {
+         "author": "der_geraet",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia4.jpg",
+         "name":"Xperia Style 4",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia4_thumb.jpg"
       }
    ]
 }
