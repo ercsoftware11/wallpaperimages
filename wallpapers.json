@@ -161,6 +161,18 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/mountains6.jpg",
          "name":"Mountains 6",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/mountains6_thumb.jpg"
+      },
+       {
+         "author": "der_geraet",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia1.jpg",
+         "name":"Xperia Style 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia1_thumb.jpg"
+      },
+       {
+         "author": "der_geraet",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia2.jpg",
+         "name":"Xperia Style 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia2_thumb.jpg"
       }
    ]
 }
