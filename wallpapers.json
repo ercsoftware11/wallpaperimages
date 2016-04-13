@@ -126,6 +126,42 @@
          "name":"Material 10",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material10_thumb.png"
       },
+      {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material11.jpg",
+         "name":"Material 11",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material11_thumb.jpg"
+      },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12.jpg",
+         "name":"Material 12",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material12_thumb.jpg"
+      },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material13.jpg",
+         "name":"Material 13",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material13_thumb.jpg"
+      },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material14.jpg",
+         "name":"Material 14",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material14_thumb.jpg"
+      },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material15.jpg",
+         "name":"Material 15",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material15_thumb.jpg"
+      },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material16.jpg",
+         "name":"Material 16",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material16_thumb.jpg"
+      },
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/mountains1.jpg",
@@ -191,6 +227,36 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia4.jpg",
          "name":"Xperia Style 4",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/xperia4_thumb.jpg"
+      },
+      {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/samsung1.jpg",
+         "name":"Samsung 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/samsung1_thumb.jpg"
+      },
+      {
+         "author": "Samsung 3",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/samsung3.jpg",
+         "name":"Samsung",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/samsung3_thumb.jpg"
+      },
+      {
+         "author": "Nexus",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus1.jpg",
+         "name":"Nexus 1 - Large File",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus1_thumb.jpg"
+      },
+      {
+         "author": "Nexus",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus2.jpg",
+         "name":"Nexus 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus2_thumb.jpg"
+      },
+      {
+         "author": "Nexus",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus3.jpg",
+         "name":"Nexus 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus3_thumb.jpg"
       }
    ]
 }
