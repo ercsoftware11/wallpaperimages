@@ -72,6 +72,12 @@
          "name":"Astronaut 2",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/astronaut2_thumb.jpg"
       },
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/google_now.jpg",
+         "name":"Google Now",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/google_now_thumb.jpg"
+      },
       {
          "author": "Google",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material2.jpg",
