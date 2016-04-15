@@ -263,6 +263,18 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus3.jpg",
          "name":"Nexus 3",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus3_thumb.jpg"
+      },
+      {
+         "author": "Flat Plain Dark Blue",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_dark.jpg",
+         "name":"ERC Software",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_dark_thumb.jpg"
+      },
+      {
+         "author": "Flat Plain Light Blue",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light.jpg",
+         "name":"ERC Software",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light_thumb.jpg"
       }
    ]
 }
