@@ -275,6 +275,24 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light.jpg",
          "name":"ERC Software",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light_thumb.jpg"
+      },
+       {
+         "author": "Flat Plain Orange",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_orange.jpg",
+         "name":"ERC Software",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_orange_thumb.jpg"
+      },
+       {
+         "author": "Flat Plain Light Pink",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_light.jpg",
+         "name":"ERC Software",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_light_thumb.jpg"
+      },
+       {
+         "author": "Flat Plain Dark Pink",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_dark.jpg",
+         "name":"ERC Software",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_dark_thumb.jpg"
       }
    ]
 }
