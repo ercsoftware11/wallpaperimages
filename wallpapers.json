@@ -311,6 +311,36 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/moonshine.png",
          "name":"Moonshine",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/moonshine_thumb.png"
+      },
+       {
+         "author": "Zen Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_blue.png",
+         "name":"Material Blue",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_blue_thumb.png"
+      },
+      {
+         "author": "Zen Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_purple.png",
+         "name":"Material Purple",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_purple_thumb.png"
+      },
+      {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape1.png",
+         "name":"Material Landscape 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape1_thumb.png"
+      },
+      {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape2.png",
+         "name":"Material Landscape 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape2_thumb.png"
+      },
+      {
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape3.png",
+         "name":"Material Landscape 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/material_landscape3_thumb.png"
       }
    ]
 }
