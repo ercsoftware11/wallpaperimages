@@ -265,40 +265,52 @@
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/nexus3_thumb.jpg"
       },
       {
-         "author": "Flat Plain Dark Blue",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_dark.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Dark Blue",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_dark_thumb.jpg"
       },
       {
-         "author": "Flat Plain Light Blue",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Light Blue",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_blue_light_thumb.jpg"
       },
        {
-         "author": "Flat Plain Orange",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_orange.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Orange",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_orange_thumb.jpg"
       },
        {
-         "author": "Flat Plain Light Pink",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_light.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Light Pink",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_light_thumb.jpg"
       },
       {
-         "author": "Flat Plain Lighter Pink",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_lighter.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Lighter Pink",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_lighter_thumb.jpg"
       },
        {
-         "author": "Flat Plain Dark Pink",
+         "author": "ERC Software",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_dark.jpg",
-         "name":"ERC Software",
+         "name":"Flat Plain Dark Pink",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/flat_plain_pink_dark_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/springish.png",
+         "name":"Springish",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/springish_thumb.png"
+      },
+       {
+         "author": "Tom Wellington",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/moonshine.png",
+         "name":"Moonshine",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/moonshine_thumb.png"
       }
    ]
 }
