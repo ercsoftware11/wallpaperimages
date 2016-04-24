@@ -1,6 +1,72 @@
 {
    "wallpapers": [
       {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/blue_forrest.png",
+         "name":"Blue Forrest",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/blue_forest_thumb.png"
+      },
+      {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/purple_landscape.jpg",
+         "name":"Purple Landscape",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/purple_landscape_thumb.jpg"
+      },
+       {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/tree_sunset.jpg",
+         "name":"Tree Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/tree_sunset_thumb.jpg"
+      },
+      {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/mountain.jpg",
+         "name":"Mountain",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/mountain_thumb.jpg"
+      },
+       {
+         "author": "Cristiano Spada",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/mwallpaper.png",
+         "name":"M Wallpaper",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/mwallpaper_thumb.png"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/blue_rocks.jpg",
+         "name":"Blue Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/blue_rocks_thumb.jpg"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/orange_rocks.jpg",
+         "name":"Orange Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/orange_rocks_thumb.jpg"
+      },
+      {
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/bad_piggy.png",
+         "name":"Bad Piggy",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/bad_piggy_thumb.png"
+      },
+       {
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/purple_water.png",
+         "name":"Bad Piggy",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/purple_water_thumb.png"
+      },
+       {
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/red_rocket.png",
+         "name":"Bad Piggy",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/red_rocket_thumb.png"
+      },
+      {
+         "author": "Rvind Jitta",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/asteriods.png",
+         "name":"Asteriods",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/asteriods_thumb.png"
+      },
+      {
          "author": "Google",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/androidm1.jpg",
          "name":"Android M   1",
