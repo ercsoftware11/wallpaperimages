@@ -1,5 +1,11 @@
 {
    "wallpapers": [
+       {
+         "author": "Daki Vucic",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/pink_mountains.png",
+         "name":"Pink Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/pink_mountains_thumb.png"
+      },
       {
          "author": "Alex Chaves",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/blue_forrest.png",
