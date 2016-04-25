@@ -1,6 +1,12 @@
 {
    "wallpapers": [
       {
+         "author": "Michail _k",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/dark_tree.png",
+         "name":"Dark Tree",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/dark_tree_thumb.png"
+      },
+      {
          "author": "Alex Lionne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/pink_sun.png",
          "name":"Pink Sun",
