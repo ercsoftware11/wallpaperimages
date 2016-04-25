@@ -1,5 +1,11 @@
 {
    "wallpapers": [
+      {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/material_style.jpg",
+         "name":"Material Style",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/material_style_thumb.jpg"
+      },
        {
          "author": "Daki Vucic",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/pink_mountains.png",
@@ -275,12 +281,6 @@
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/mountains6.jpg",
          "name":"Mountains 6",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/mountains6_thumb.jpg"
-      },
-      {
-         "author": "KO_OP Mode",
-         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/desert_landscape.png",
-         "name":"Desert Landscape",
-         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/desert_landscape_thumb.png"
       },
        {
          "author": "der_geraet",
