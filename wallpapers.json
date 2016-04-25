@@ -1,6 +1,12 @@
 {
    "wallpapers": [
       {
+         "author": "Zan Cerne ",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/super_wall.png",
+         "name":"Super Wall",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/super_wall_thumb.png"
+      },
+      {
          "author": "Alex Chaves",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/material_style.jpg",
          "name":"Material Style",
