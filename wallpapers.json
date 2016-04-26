@@ -1,6 +1,12 @@
 {
    "wallpapers": [
       {
+         "author": "Alex Chaves",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/batman.png",
+         "name":"Batman",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/batman_thumb.png"
+      },
+      {
          "author": "Michail _k",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/images_24-04-16/dark_tree.png",
          "name":"Dark Tree",
