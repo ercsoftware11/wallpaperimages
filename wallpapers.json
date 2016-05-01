@@ -1,6 +1,18 @@
 {
    "wallpapers": [
       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/blue_beach.png.png",
+         "name":"Blue Beach",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/blue_beach_thumb.png"
+      },
+      {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/android_n_blue.png",
+         "name":"Android N Blue",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/android_n_blue_thumb.png"
+      },
+      {
          "author": "Rutwik Patel",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/material_beach.png",
          "name":"Material Beach",
