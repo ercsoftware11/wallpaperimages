@@ -1,5 +1,11 @@
 {
    "wallpapers": [
+       {
+         "author": "Eddy Gzz",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/nexus_6.png",
+         "name":"Nexus 6",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/nexus_6_thumb.png"
+      },
       {
          "author": "Odney Joseph",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/30-04-16/blue_beach.png",
