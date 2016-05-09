@@ -1,5 +1,59 @@
 {
    "wallpapers": [
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/cscape_1.png",
+         "name":"C Scape 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/cscape_1_thumb.png"
+      },
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/cscape_2.png",
+         "name":"C Scape 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/cscape_2_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/Earthviewpart2_4.png",
+         "name":"Earthview",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/Earthviewpart2_4_thumb.png"
+      },
+        {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/Plane.png",
+         "name":"Plane",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/Plane_thumb.png"
+      },
+        {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/SO_4.png",
+         "name":"SO Material 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/SO_4_thumb.png"
+      },
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/SO_5.png",
+         "name":"SO Material 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/SO_5_thumb.png"
+      },
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/slik_1.png",
+         "name":"Slik 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/slik_1_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/slik_4.png",
+         "name":"Slik 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/slik_4_thumb.png"
+      },
+      {
+         "author": "Briana Giagnotti",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/tree.jpg",
+         "name":"Tree",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/tree_thumb.jpg"
+      },
        {
          "author": "Anas Khan",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/flowers.jpg",
