@@ -1,5 +1,41 @@
 {
    "wallpapers": [
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_1.png",
+         "name":"Moment 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_1_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_2.png",
+         "name":"Moment 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_2_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_3.png",
+         "name":"Moment 3",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_3_thumb.png"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/blue_mountains.png",
+         "name":"Blue Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/blue_mountains_thumb.png"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/nice_mountains.png",
+         "name":"Nice Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/nice_mountains_thumb.png"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/orange_weather.png",
+         "name":"Orange Weather",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/orange_weather_thumb.png"
+      },
       {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/uto_3.png",
