@@ -1,5 +1,17 @@
 {
    "wallpapers": [
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/outo_3.png",
+         "name":"Outo 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/outo_3_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/outo_6.png",
+         "name":"Outo 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/outo_6_thumb.png"
+      },
        {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/mote_2.png",
