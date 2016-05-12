@@ -1,6 +1,12 @@
 {
    "wallpapers": [
        {
+         "author": "ERC",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/orb_bottom.png",
+         "name":"Blue Orb",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/orb_bottom_thumb.png"
+      },
+       {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_1.png",
          "name":"Moment 1",
