@@ -2,6 +2,12 @@
    "wallpapers": [
        {
          "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/mote_2.png",
+         "name":"Mote",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/mote_2_thumb.png"
+      },
+       {
+         "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_1.png",
          "name":"Moment 1",
          "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/moment_1_thumb.png"
