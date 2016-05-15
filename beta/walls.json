@@ -1,5 +1,17 @@
 {
    "wallpapers": [
+      {
+         "author": "ERC",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/M Logo Only.png",
+         "name":"M Logo Only",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/M Logo Only.png"
+      },
+       {
+         "author": "ERC",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/M Logo Shapes.png",
+         "name":"M Logo Shapes",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/M Logo Shapes.png"
+      },
        {
          "author": "ERC",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/beta/orb_bottom.png",
