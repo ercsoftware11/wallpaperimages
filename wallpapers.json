@@ -1,5 +1,29 @@
 {
    "wallpapers": [
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/googlish_1.png",
+         "name":"Googlish 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/googlish_1_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/googlish_3.png",
+         "name":"Googlish 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/googlish_3_thumb.png"
+      },
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/MAD_3.png",
+         "name":"Mad 1",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/MAD_3_thumb.png"
+      },
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/MAD_2.png",
+         "name":"Mad 2",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/MAD_2_thumb.png"
+      },
       {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/vut_1.png",
