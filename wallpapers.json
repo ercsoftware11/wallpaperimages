@@ -1,5 +1,23 @@
 {
    "wallpapers": [
+        {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/material_pink.png",
+         "name":"Material Pink",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/material_pink_thumb.png"
+      },
+       {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/nice_scenery.jpg",
+         "name":"Nice Scenery",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/nice_scenery_thumb.jpg"
+      },
+      {
+         "author": "Odney Joseph",
+         "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/dark_material.jpg",
+         "name":"Dark Material",
+         "thumbnail": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/dark_material_thumb.jpg"
+      },
        {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/googlish_1.png",
