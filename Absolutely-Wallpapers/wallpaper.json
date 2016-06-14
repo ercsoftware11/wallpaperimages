@@ -6,6 +6,12 @@
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage1.jpg",
       "name": "Outback Antique"
     },
+      {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
+      "name": "Beautiful Sea"
+    },
      {
       "author": "Nick Nice",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage3.jpg",
@@ -268,6 +274,12 @@
     }
   ],
    "sea": [
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
+      "name": "Beautiful Sea"
+    },
     {
       "author": "David Astorga (IGL)",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
