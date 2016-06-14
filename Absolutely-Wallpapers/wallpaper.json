@@ -1,13 +1,7 @@
 {
   "walls": [
-    {
-      "author": "Briana Giagnotti",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage1.jpg",
-      "name": "Outback Antique"
-    },
       {
-      "author": "Unknown",
+      "author": "Edwin Macalopu",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
       "name": "Beautiful Sea"
@@ -275,52 +269,22 @@
   ],
    "sea": [
      {
-      "author": "Unknown",
+      "author": "Edwin Macalopu",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
       "name": "Beautiful Sea"
     },
-    {
-      "author": "David Astorga (IGL)",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_lake.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_lake.jpg",
+      "name": "Lake"
     },
     {
-      "author": "Tushar Parmar",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
-      "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
+      "author": "21MaRc012",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Sea/sea1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Sea/sea1.jpg",
+      "name": "Sea Mountains"
     }
   ],
    "city": [
