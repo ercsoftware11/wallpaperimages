@@ -1,5 +1,53 @@
 {
   "walls": [
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04%20(1).jpg",
+      "name": "Costal"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
+      "name": "Planet"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
+      "name": "Print"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(2).jpg",
+      "name": "Tracks"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(3).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(3).jpg",
+      "name": "Water Trees"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
+      "name": "Buildings"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(7).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(7).jpg",
+      "name": "Beach House"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
+      "name": "Mysterious"
+    },
       {
       "author": "Edwin Macalopu",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/sea_beautiful.jpg",
@@ -19,54 +67,25 @@
       "name": "Wood"
     },
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper 1"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
       "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
     }
+    
   ],
   "new": [
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
@@ -106,6 +125,36 @@
     }
   ],
    "material": [
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall11.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall11.jpg",
+      "name": "Wall 11"
+    },
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall110.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall110.png",
+      "name": "Wall 110"
+    },
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall117.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall117.png",
+      "name": "Wall 117"
+    },
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall119.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall119.png",
+      "name": "Wall 119"
+    },
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall133.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Odney/Wall133.png",
+      "name": "Wall 133"
+    },
      {
       "author": "Zan Cerne",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/csape_1.png",
@@ -137,10 +186,10 @@
       "name": "SO Material 1"
     },
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
@@ -154,117 +203,63 @@
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/material_pink_thumb.png",
       "name": "Material Pink"
     },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
+{
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/material_odney.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/material_odney.png",
+      "name": "Material Style"
+    },
+{
+      "author": "Anas Khan",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/dog.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/08-05-16/dog.jpg",
+      "name": "Dog"
+    },
+{
+      "author": "Rutwik Patel",
+      "url": "https://lh3.googleusercontent.com/wsil09zNObfwldi4GYbnqRPB0X2jIifkK9D4lhLll4P3=w1600-h900-rw-no",
+      "thumb": "https://lh3.googleusercontent.com/wsil09zNObfwldi4GYbnqRPB0X2jIifkK9D4lhLll4P3=w1600-h900-rw-no",
+      "name": "Bright Night"
+    },
+{
+      "author": "Rutwik Patel",
+      "url": "https://lh3.googleusercontent.com/-DU916Vcz0deg208O16x8j3HEZQKHqCSxBU4FbIoLx75=w1600-h900-rw-no",
+      "thumb": "https://lh3.googleusercontent.com/-DU916Vcz0deg208O16x8j3HEZQKHqCSxBU4FbIoLx75=w1600-h900-rw-no",
+      "name": "Sunrise"
     },
     {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
+      "author": "Rutwik Patel",
+      "url": "https://lh3.googleusercontent.com/pdHFxYPSKBngqD1tZzd0Mb68p-j2Tv2yB_YoVN_f-yc=w1600-h900-rw-no",
+      "thumb": "https://lh3.googleusercontent.com/pdHFxYPSKBngqD1tZzd0Mb68p-j2Tv2yB_YoVN_f-yc=w1600-h900-rw-no",
+      "name": "Night"
     },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
-    }
   ],
    "landscape": [
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
       "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
     }
   ],
    "nature": [
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
       "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
     }
   ],
    "sea": [
@@ -289,90 +284,60 @@
   ],
    "city": [
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "name": "Little World"
     },
     {
       "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
       "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
     }
   ],
    "vintage": [
     {
-      "author": "David Astorga (IGL)",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
+      "author": "Briana Giagnotti",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage1.jpg",
+      "name": "Outback Antique"
     },
     {
-      "author": "Tushar Parmar",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
-      "name": "#code"
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage2.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage2.jpg",
+      "name": "Wood"
     },
     {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage2.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage2.jpg",
+      "name": "Wood"
     },
     {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage3.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage3.jpg",
+      "name": "Old Path"
     },
     {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
+      "author": "Thom Freitas",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage4.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Version-3/Vintage/vintage4.png",
+      "name": "Vintage Buildings"
+    },
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Rutwik%20Patel/vintage_path.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Rutwik%20Patel/vintage_path.jpg",
+      "name": "Path"
     },
     {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
+      "author": "Chilled Afternoon",
+      "url": "https://lh3.googleusercontent.com/f_spzPZRGFrJIbn_UIdlRoKuXx0YSxLBjHsWpoL9F2Sb=w1600-h900-rw-no",
+      "thumb": "https://lh3.googleusercontent.com/f_spzPZRGFrJIbn_UIdlRoKuXx0YSxLBjHsWpoL9F2Sb=w1600-h900-rw-no",
+      "name": "Path"
     }
   ]
 }
