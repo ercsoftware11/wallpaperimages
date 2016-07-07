@@ -1,6 +1,30 @@
 {
   "walls": [
     {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
+      "name": "Calm Lake"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
+      "name": "Space Person"
+    },
+     {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
+      "name": "Natural Shapes"
+    },
+     {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "name": "Star Lord"
+    },
+    {
       "author": "Daki Vucic",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Daki-Vucic/01.07.16%20-%201.jpg",
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Daki-Vucic/01.07.16%20-%201.jpg",
@@ -315,6 +339,24 @@
     
   ],
   "new": [
+    {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "name": "Star Lord"
+    },
+    {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%202.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%202.jpg",
+      "name": "Galaxy"
+    },
+    {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%206.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%206.jpg",
+      "name": "City Lights"
+    },
     {
       "author": "Nick Nice",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nick-nice/new2/16%20-%203.jpg",
@@ -648,6 +690,12 @@
      
   ],
    "material": [
+      {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%202.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%202.jpg",
+      "name": "Galaxy"
+    },
      {
       "author": "Odney Joseph",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/Wall1.jpg",
@@ -1336,6 +1384,12 @@
     }
   ],
    "city": [
+     {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%206.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%206.jpg",
+      "name": "City Lights"
+    },
       {
       "author": "Nick Nice",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/46e53cc9b1072ddf50d27676e29a2204.jpg",
