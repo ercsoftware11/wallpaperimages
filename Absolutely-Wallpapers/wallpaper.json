@@ -1,6 +1,12 @@
 {
   "walls": [
     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
+      "name": "Fathers Day"
+    },
+    {
       "author": "Thom Freitas",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2011.png",
       "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2011.png",
@@ -525,6 +531,18 @@
     
   ],
   "new": [
+    {
+      "author": "Alex Chaves",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/9052813229587295843-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/9052813229587295843-account_id%3D1.png",
+      "name": "Earthview"
+    },
+      {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/0.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/0.jpg",
+      "name": "Material World"
+    },
     {
       "author": "Alex Chaves",
       "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/6019771127292382414-account_id%3D1.jpg",
