@@ -725,6 +725,56 @@
     }
  
   ],
+   "animals": [
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1)_thumb.jpg",
+      "name": "Black Dog"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016_thumb.jpg",
+      "name": "Little Cute Dog"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018_thumb.jpg",
+      "name": "Snuggled"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1)_thumb.jpg",
+      "name": "Watching"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2)_thumb.jpg",
+      "name": "Interested Cat"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4)_thumb.jpg",
+      "name": "Tight Squeeze"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2)_thumb.jpg",
+      "name": "Double Looking"
+    },
+       {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2)_thumb.jpg",
+      "name": "Lady Beatle"
+    }
+  ],
   "new": [
      {
       "author": "Jeremy Leonard",
