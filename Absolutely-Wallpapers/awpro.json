@@ -1,915 +1,23 @@
 {
-  "walls": [
-        {
-      "author": "ERC",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/20161016_034501.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/20161016_034501.jpg",
-      "name": "Dark Trees"
-    },
-     {
-      "author": "Alex Chaves",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-Space/Other/5964732488181026290-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-Space/Other/5964732488181026290-account_id%3D1_thumb.jpg",
-      "name": "Abstract Power Lines"
-    },
-     {
-      "author": "Chris Coe",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(1)_thumb.jpg",
-      "name": "Dark Room Cup"
-    },
-     {
-      "author": "Chris Coe",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(7).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(7)_thumb.jpg",
-      "name": "Bridge Supports"
-    },
-     {
-      "author": "Chris Coe",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(2).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(2)_thumb.jpg",
-      "name": "Fence Walkway"
-    },
-    {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Colour%20Swirls.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Colour%20Swirls_thumb.png",
-      "name": "Color Swirls"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-26-01-17/2017%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-26-01-17/2017%20-%204_thumb.jpg",
-      "name": "Hot Fire"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%207.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%207_thumb.jpg",
-      "name": "Ace"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%201%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%201%20(1)_thumb.jpg",
-      "name": "Wooden Red Wall"
-    },
-  
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%2014.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%2014_thumb.jpg",
-      "name": "Rock House"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%204_thumb.jpg",
-      "name": "Red Leaves"
-    },
-   
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2011.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2011_thumb.jpg",
-      "name": "Bendy Building"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2013.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2013_thumb.jpg",
-      "name": "Flower View"
-    },
-    
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2020.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2020_thumb.jpg",
-      "name": "Sign Angle"
-    },
-    {
-      "author": "Alex Chaves",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/new2/2644298942895619898-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/new2/2644298942895619898-account_id%3D1_thumb.jpg",
-      "name": "Dispatch"
-    },
-  
-    
-    {
-      "author": "Alex Chaves",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Alex/6180890714696735405-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Alex/6180890714696735405-account_id%3D1.jpg",
-      "name": "Window View"
-    },
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/2524363429885029027-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/2524363429885029027-account_id%3D1.png",
-      "name": "Purple Symbol"
-    },
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/3186725524270689946-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/3186725524270689946-account_id%3D1.jpg",
-      "name": "Blue Sea Weed"
-    },
-   
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
-      "name": "Fathers Day"
-    },
-   
-     {
-      "author": "Thom Freitas",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2029.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2029.png",
-      "name": "Green Apple"
-    },    
-     {
-      "author": "Thom Freitas",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2035.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2035.png",
-      "name": "The Grind"
-    },
-    
-    {
-      "author": "Sheno C",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/myw%20(44).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/myw%20(44).jpg",
-      "name": "Color Curves"
-    },
-    {
-      "author": "Marco P",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/marco/16.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/marco/16.png",
-      "name": "Wood R2D2"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/nice/IMG_20160811_105310-01-01.jpeg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/nice/IMG_20160811_105310-01-01.jpeg",
-      "name": "Blue Ice Cream"
-    },
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(1).jpg",
-      "name": "Nice Car"
-    },
-     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(2).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(2).jpg",
-      "name": "Suicide Squad"
-    },
-   
-    {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(7).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(7).jpg",
-      "name": "Lambo"
-    },
-  
-    {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(46).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(46).png",
-      "name": "Cool Tapout Dude"
-    },
-     {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(36).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(36).png",
-      "name": "Highway View"
-    },
-     {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(18).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(18).png",
-      "name": "BLVCK"
-    },
-    
-  
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%203.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%203.jpg",
-      "name": "City Curb"
-    },
-   
-    
-     {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v36%20(35).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v36%20(35).png",
-      "name": "Bio Man"
-    },
-    {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v39%20(14).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v39%20(14).png",
-      "name": "Purple Smoke Man"
-    },
-    {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v41%20(1).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v41%20(1).png",
-      "name": "Lava Fall"
-    },
-    {
-      "author": "Microsoft",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Microsoft/Windows_Insider_Anniversary-Ninjacat-1440x2560-Phone.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Microsoft/Windows_Insider_Anniversary-Ninjacat-1440x2560-Phone.jpg",
-      "name": "Exclusive Windows 10"
-    },
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7489410564842737901-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7489410564842737901-account_id%3D1.png",
-      "name": "Cup"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Ry-t---K-n/IMG_20150731_203356.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Ry-t---K-n/IMG_20150731_203356.png",
-      "name": "Dark Sky Trees"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
-      "name": "Calm Lake"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
-      "name": "Space Person"
-    },
-     {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
-      "name": "Natural Shapes"
-    },
-     {
-      "author": "Odney Joseph",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
-      "name": "Star Lord"
-    },
-   
-    {
-      "author": "Nic Olas",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%203.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%203.jpg",
-      "name": "Flowers"
-    },
-     {
-      "author": "Nic Olas",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%204.jpg",
-      "name": "Nice Colors"
-    },
-    {
-      "author": "Steven Williams",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160313_122008.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160313_122008.jpg",
-      "name": "Stepping Blocks"
-    },
-    {
-      "author": "Steven Williams",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160509_091034.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160509_091034.jpg",
-      "name": "Boat"
-    },
-   
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/20160112_172223.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/20160112_172223.jpg",
-      "name": "Shapes"
-    },
-     {
-      "author": "Lucas Rodrigues",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%2017.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%2017.jpg",
-      "name": "WALL-E"
-    },
-       {
-      "author": "Lucas Rodrigues",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%203.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%203.jpg",
-      "name": "Paddling"
-    },
-     {
-      "author": "Lucas Rodrigues",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%206.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%206.jpg",
-      "name": "Umbrella Crossing"
-    },
-    {
-      "author": "Mustafa CN",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%201.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%201.jpg",
-      "name": "Colors 1"
-    },
-    {
-      "author": "Mustafa CN",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%203.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%203.jpg",
-      "name": "Colors 2"
-    },
-     {
-      "author": "Mustafa CN",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%205.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%205.jpg",
-      "name": "Colors 3"
-    },
-     {
-      "author": "Thebear Koss",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%2014.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%2014.png",
-      "name": "Skull"
-    },
-     {
-      "author": "Thebear Koss",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%202.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%202.png",
-      "name": "Skull 2"
-    },
-     {
-      "author": "Thebear Koss",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%203.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%203.png",
-      "name": "Skull 3"
-    },
-     {
-      "author": "Thebear Koss",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%205.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%205.png",
-      "name": "Skull 4"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%203.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%203.jpg",
-      "name": "Colored Lines"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204%20(1).jpg",
-      "name": "Colored Lines 2"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204.jpg",
-      "name": "Stormy"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/2016%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/2016%20-%204.jpg",
-      "name": "Stormy 2"
-    },
-{
-      "author": "Ashley Knedler",
-      "url": "http://i.imgur.com/sqxgABD.jpg",
-      "thumb": "http://i.imgur.com/sqxgABD.jpg",
-      "name": "Sand Stone"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(1).jpg",
-      "name": "Old School"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%204.jpg",
-      "name": "Sunset"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/9096153551302888804-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/9096153551302888804-account_id%3D1.jpg",
-      "name": "Retro Dude"
-    },
-     {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(4).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(4).jpg",
-      "name": "Special Tree"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(5).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(5).jpg",
-      "name": "Extinguisher"
-    },
-     {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2107254360651367836-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2107254360651367836-account_id%3D1.png",
-      "name": "Pink Smoke"
-    },
-      {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2150519652719777356-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2150519652719777356-account_id%3D1.png",
-      "name": "Blocks"
-    },
-       {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2431620505235895364-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2431620505235895364-account_id%3D1.png",
-      "name": "Little Person"
-    },
-      {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(9).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(9).jpg",
-      "name": "Paper Plane"
-    },
-    {
-      "author": "Om Tiwari",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(7).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(7).jpg",
-      "name": "To-Ma-To"
-    },
-
-
-
-{
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
-      "name": "Buildings"
-    },
-    
-{
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
-      "name": "Mysterious"
-    }
-    
-  ],
-  "community": [
-    {
-      "author": "Piotr Gałeczka",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Sunset%20by%20the%20Sea.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Sunset%20by%20the%20Sea_thumb.jpeg",
-      "name": "Sunset by the Sea"
-    },
-    {
-      "author": "Piotr Gałeczka",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Crispy%20Sea%20Rocks.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Crispy%20Sea%20Rocks_thumb.jpeg",
-      "name": "Crispy Sea Rocks"
-    },
-     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Mountain%20cloud.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Mountain%20cloud_thumb.jpeg",
-      "name": "Mountain Cloud"
-    },
-    {
-      "author": "Sdev99",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Ocean%20Amaze_thumb.jpeg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Ocean%20Amaze.png",
-      "name": "Ocean Amaze"
-    },
-    
-     {
-      "author": "LG",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/LG%20G6%20Stock.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/LG%20G6%20Stock_thumb.jpeg",
-      "name": "LG G6 Stock"
-    },
-    {
-      "author": "Ben",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/lights%20off.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/lights%20off_thumb.jpeg",
-      "name": "Lights Off"
-    },
-    {
-      "author": "Harsh Barsaiyan",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/River%20Valley.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/River%20Valley_thumb.jpeg",
-      "name": "River Valley"
-    },
-    {
-      "author": "Harsh Barsaiyan",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20View.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20View_thumb.jpeg",
-      "name": "Mountain View"
-    },
-     {
-      "author": "Abhishek Malhotra",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20Flower.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20Flower_thumb.jpeg",
-      "name": "Mountain Flower"
-    },
-     {
-      "author": "Mahesh",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/wall.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/wall_thumb.jpeg",
-      "name": "Plain Sky Building"
-    },
-    {
-      "author": "Ameet Mathrani",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/downtown.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/downtown_thumb.jpeg",
-      "name": "Downtown"
-    },
-    {
-      "author": "Nick Grandi",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Prague%20Downtown.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Prague%20Downtown_thumb.jpeg",
-      "name": "Prague Downtown"
-    },
-     {
-      "author": "Pvsquare",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/Joker.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/Joker_thumb.jpeg",
-      "name": "Joker"
-    },
-    {
-      "author": "Pvsquare",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pvsquare/Planes.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pvsquare/Planes.png",
-      "name": "Planes"
-    },
-    {
-      "author": "Deepal Pallav Suthar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/An%20Evening%20Calm.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/An%20Evening%20Calm_thumb.jpeg",
-      "name": "An Evening Calm"
-    },
-    {
-      "author": "Deepal Pallav Suthar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/Cemetery%20Of%20Temples.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/Cemetery%20Of%20Temples_thumb.jpeg",
-      "name": "Cemetery Of Temples"
-    },
-     {
-      "author": "Deepal Pallav Suthar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/The%20Tropaeum%20Of%20Rana.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/The%20Tropaeum%20Of%20Rana_thumb.jpeg",
-      "name": "The Tropaeum Of Rana"
-    },
-    {
-      "author": "TwntyandSevn",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/city%20of%20adelaide%20.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/city%20of%20adelaide%20_thumb.jpeg",
-      "name": "City of Adelaide"
-    },
-     {
-      "author": "Aunty Mar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/%2Bl.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/%2Bl_thumb.jpeg",
-      "name": "Fence Plants"
-    },
-     {
-      "author": "Jeremy Leonard",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/JLeonard/-Jeremy%20Leonard%20-03.jpeg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/JLeonard/-Jeremy%20Leonard%20-03_thumb.jpeg",
-      "name": "Melbourne View"
-    },
-       {
-      "author": "Pratyush Jar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20Man.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20Man.png",
-      "name": "Material Man 1"
-    },
-    {
-      "author": "Pratyush Jar",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20man%20.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20man%20.png",
-      "name": "Material Man 2"
-    },
-    {
-      "author": "Jeremy Leonard",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-01.jpeg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-01_thumb.jpeg",
-      "name": "Melbourne 1"
-    },
-    {
-      "author": "Jeremy Leonard",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-02.jpeg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-02_thumb.jpeg",
-      "name": "Melbourne 2"
-    }
- 
-  ],
-   "space": [
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/Celestial-Fireworks-Hubble-25th-Anniversary-4K-Wallpaper-01.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/Celestial-Fireworks-Hubble-25th-Anniversary-4K-Wallpaper-01.jpg",
-      "name": "Galaxy"
-    },
-     {
-      "author": "Alex Chaves",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Alex09-02/7028664132413042737-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Alex09-02/7028664132413042737-account_id%3D1_thumb.jpg",
-      "name": "Starry Night View"
-    },
-       {
-      "author": "Vinoth Ragunathan",
-      "url": "https://raw.githubusercontent.com/UniWalls/UniWalls-Wallpapers/master/Wallpapers/Space/Earth.jpg",
-      "thumb": "https://raw.githubusercontent.com/UniWalls/UniWalls-Wallpapers/master/Wallpapers/Space/Earth_thumb.jpg",
-      "name": "Earth"
-    },
-     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
-      "name": "Planet"
-    },
-    
-      {
-      "author": "Ricky Laughlin",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2030.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2030.jpg",
-      "name": "Purple Planet"
-    },
-    {
-      "author": "Ricky Laughlin",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2039.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2039.jpg",
-      "name": "Purple/Blue Planet"
-    },
-     {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space1_thumb.jpg",
-      "name": "Space 1"
-    },
-    {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space2.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space2_thumb.jpg",
-      "name": "Space 2"
-    },
-    {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space3.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space3_thumb.jpg",
-      "name": "Space 3"
-    },
-{
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space4.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space4_thumb.jpg",
-      "name": "Space 4"
-    },
-     {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space5.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space5_thumb.jpg",
-      "name": "Space 5"
-    },
-     {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space6.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space6_thumb.jpg",
-      "name": "Space 6"
-    },
-      {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space7.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space7_thumb.jpg",
-      "name": "Space 7"
-    },
-      {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space8.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space8_thum.jpg",
-      "name": "Space 8"
-    },
-      {
-      "author": "NASA",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space9.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space9_thumb.jpg",
-      "name": "Space 9"
-    }
- 
-  ],
-   "animals": [
-     {
-      "author": "Miui",
-     
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2044.jpg",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2044%20Preview.jpg",
-      "name": "Resting Wolf"
-    },    
-      {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20466.jpg",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20466%20Preview.jpg",
-      "name": "Looking Cat"
-    },
-     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20423.jpg",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20423%20Preview.jpg",
-      "name": "Cat Looking Down"
-    },
-{
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20506.jpg",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20506%20Preview.jpg",
-      "name": "Snowy Cat"
-    },
-     {
-      "author": "Miui",
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2043.jpg",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2043%20Preview.jpg",
-      "name": "Puppy Dog Looking over Table"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-04-04/2017%20-%202%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-04-04/2017%20-%202%20(1)_thumb.jpg",
-      "name": "Sad Looking Puppy Dog"
-    },
-    {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20493.png",
-      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20493%20Preview.jpg",
-      "name": "Focused Big Cat"
-    }, 
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice/birdy.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice/birdy_thumb.jpg",
-      "name": "Birdy"
-    },
-      {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v86%20(22).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v86%20(22)_thumb.jpeg",
-      "name": "Dog on Leash"
-    },
-     {
-      "author": "Rutwik Patel",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v85%20(4).png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v85%20(4)_thumb.jpeg",
-      "name": "Dog Looking Up"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%202.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%202_thumb.jpg",
-      "name": "Eagle Landing"
-    },
-       {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%208.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%208.jpg",
-      "name": "Hello"
-    },
-      {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7597138188487556786-account_id%3D1.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7597138188487556786-account_id%3D1.jpg",
-      "name": "Dog Front"
-    },
-    {
-      "author": "Sheno C",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Sheno-C/ids%20(25).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Sheno-C/ids%20(25).jpg",
-      "name": "Puppy Dog"
-    },
-       {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%205.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%205_thumb.jpg",
-      "name": "Puppy Close Up"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/6043963464005105080-account_id%3D1.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/6043963464005105080-account_id%3D1.png",
-      "name": "Dog - View"
-    },
-       {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%2012.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%2012.jpg",
-      "name": "Lion"
-    },
-     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
-      "name": "Print"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%2028.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%2028.jpg",
-      "name": "Sleeping Puppy"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%201.png",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%201.png",
-      "name": "Poser Cat"
-    },
-     {
-      "author": "ERC Software",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/rat_mod.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/rat_mod.jpg",
-      "name": "The Rat"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%2013.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%2013_thumb.jpg",
-      "name": "Drinking Tiger"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%205.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%205_thumb.jpg",
-      "name": "Baby Bird"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%204.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%204_thumb.jpg",
-      "name": "Wolf"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%209.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%209_thumb.jpg",
-      "name": "Chilled Tiger"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice2/2016%20-%201.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice2/2016%20-%201_thumb.jpg",
-      "name": "Black White Cat"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1)_thumb.jpg",
-      "name": "Black Dog"
-    },
-    {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016_thumb.jpg",
-      "name": "Little Cute Dog"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018.jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018_thumb.jpg",
-      "name": "Snuggled"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1)_thumb.jpg",
-      "name": "Watching"
-    },
-      {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2)_thumb.jpg",
-      "name": "Interested Cat"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4)_thumb.jpg",
-      "name": "Tight Squeeze"
-    },
-     {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2)_thumb.jpg",
-      "name": "Double Looking"
-    },
-       {
-      "author": "Nick Nice",
-      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2).jpg",
-      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2)_thumb.jpg",
-      "name": "Lady Beatle"
-    }
-  ],
   "new": [
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Splendor%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Splendor%201%20Preview.jpg",
+      "name": "Splendor"
+    },  
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Clear%20Sky.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Clear%20Sky%20Preview.jpg",
+      "name": "Clear Sky"
+    },  
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Fast%20Light.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Fast%20Light%20Preview.jpg",
+      "name": "Fast Light"
+    },       
      {
       "author": "Michael Olatunji",
       "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20298.jpg",
@@ -929,7 +37,7 @@
       "name": "Cloudy Highway"
     },
     {
-      "author_name": "Unknown",
+      "author": "Unknown",
       "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20129.jpg",
       "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20129%20Preview.jpg",
       "name": "Lake Walkway"
@@ -1747,6 +855,923 @@
     }
  
   ],
+  "walls": [
+        {
+      "author": "ERC",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/20161016_034501.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/20161016_034501.jpg",
+      "name": "Dark Trees"
+    },
+     {
+      "author": "Alex Chaves",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-Space/Other/5964732488181026290-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-Space/Other/5964732488181026290-account_id%3D1_thumb.jpg",
+      "name": "Abstract Power Lines"
+    },
+     {
+      "author": "Chris Coe",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(1)_thumb.jpg",
+      "name": "Dark Room Cup"
+    },
+     {
+      "author": "Chris Coe",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(7).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(7)_thumb.jpg",
+      "name": "Bridge Supports"
+    },
+     {
+      "author": "Chris Coe",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Chris%20Code/001%20(2)_thumb.jpg",
+      "name": "Fence Walkway"
+    },
+    {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Colour%20Swirls.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Colour%20Swirls_thumb.png",
+      "name": "Color Swirls"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-26-01-17/2017%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-26-01-17/2017%20-%204_thumb.jpg",
+      "name": "Hot Fire"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%207.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%207_thumb.jpg",
+      "name": "Ace"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%201%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%201%20(1)_thumb.jpg",
+      "name": "Wooden Red Wall"
+    },
+  
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%2014.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%2014_thumb.jpg",
+      "name": "Rock House"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%204_thumb.jpg",
+      "name": "Red Leaves"
+    },
+   
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2011.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2011_thumb.jpg",
+      "name": "Bendy Building"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2013.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2013_thumb.jpg",
+      "name": "Flower View"
+    },
+    
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2020.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2016%20-%2020_thumb.jpg",
+      "name": "Sign Angle"
+    },
+    {
+      "author": "Alex Chaves",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/new2/2644298942895619898-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/new2/2644298942895619898-account_id%3D1_thumb.jpg",
+      "name": "Dispatch"
+    },
+  
+    
+    {
+      "author": "Alex Chaves",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Alex/6180890714696735405-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Alex/6180890714696735405-account_id%3D1.jpg",
+      "name": "Window View"
+    },
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/2524363429885029027-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/2524363429885029027-account_id%3D1.png",
+      "name": "Purple Symbol"
+    },
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/3186725524270689946-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D4/3186725524270689946-account_id%3D1.jpg",
+      "name": "Blue Sea Weed"
+    },
+   
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/happy_fathers_day.jpg",
+      "name": "Fathers Day"
+    },
+   
+     {
+      "author": "Thom Freitas",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2029.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2029.png",
+      "name": "Green Apple"
+    },    
+     {
+      "author": "Thom Freitas",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2035.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/16%20-%2035.png",
+      "name": "The Grind"
+    },
+    
+    {
+      "author": "Sheno C",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/myw%20(44).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D3/myw%20(44).jpg",
+      "name": "Color Curves"
+    },
+    {
+      "author": "Marco P",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/marco/16.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/marco/16.png",
+      "name": "Wood R2D2"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/nice/IMG_20160811_105310-01-01.jpeg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D2/nice/IMG_20160811_105310-01-01.jpeg",
+      "name": "Blue Ice Cream"
+    },
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(1).jpg",
+      "name": "Nice Car"
+    },
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/16%20-%201%20(2).jpg",
+      "name": "Suicide Squad"
+    },
+   
+    {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(7).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(7).jpg",
+      "name": "Lambo"
+    },
+  
+    {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(46).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(46).png",
+      "name": "Cool Tapout Dude"
+    },
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(36).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(36).png",
+      "name": "Highway View"
+    },
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(18).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/%40OsumWalls%20Dope%20Walls%20v42%20(18).png",
+      "name": "BLVCK"
+    },
+    
+  
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%203.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%203.jpg",
+      "name": "City Curb"
+    },
+   
+    
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v36%20(35).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v36%20(35).png",
+      "name": "Bio Man"
+    },
+    {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v39%20(14).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v39%20(14).png",
+      "name": "Purple Smoke Man"
+    },
+    {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v41%20(1).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/OsumWalls/%40OsumWalls%20Dope%20Walls%20v41%20(1).png",
+      "name": "Lava Fall"
+    },
+    {
+      "author": "Microsoft",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Microsoft/Windows_Insider_Anniversary-Ninjacat-1440x2560-Phone.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Microsoft/Windows_Insider_Anniversary-Ninjacat-1440x2560-Phone.jpg",
+      "name": "Exclusive Windows 10"
+    },
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7489410564842737901-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7489410564842737901-account_id%3D1.png",
+      "name": "Cup"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Ry-t---K-n/IMG_20150731_203356.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Ry-t---K-n/IMG_20150731_203356.png",
+      "name": "Dark Sky Trees"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1184404171792720147-account_id%3D1.jpg",
+      "name": "Calm Lake"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/1866250275264488273-account_id%3D1.jpg",
+      "name": "Space Person"
+    },
+     {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Om-Tiwari/3940726981977729082-account_id%3D1.jpg",
+      "name": "Natural Shapes"
+    },
+     {
+      "author": "Odney Joseph",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/odney-joseph/16%20-%201.jpg",
+      "name": "Star Lord"
+    },
+   
+    {
+      "author": "Nic Olas",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%203.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%203.jpg",
+      "name": "Flowers"
+    },
+     {
+      "author": "Nic Olas",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/nic-olas/2016%20-%204.jpg",
+      "name": "Nice Colors"
+    },
+    {
+      "author": "Steven Williams",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160313_122008.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160313_122008.jpg",
+      "name": "Stepping Blocks"
+    },
+    {
+      "author": "Steven Williams",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160509_091034.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/steven_williams/IMG_20160509_091034.jpg",
+      "name": "Boat"
+    },
+   
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/20160112_172223.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/20160112_172223.jpg",
+      "name": "Shapes"
+    },
+     {
+      "author": "Lucas Rodrigues",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%2017.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%2017.jpg",
+      "name": "WALL-E"
+    },
+       {
+      "author": "Lucas Rodrigues",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%203.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%203.jpg",
+      "name": "Paddling"
+    },
+     {
+      "author": "Lucas Rodrigues",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%206.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/lucas/16%20-%206.jpg",
+      "name": "Umbrella Crossing"
+    },
+    {
+      "author": "Mustafa CN",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%201.jpg",
+      "name": "Colors 1"
+    },
+    {
+      "author": "Mustafa CN",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%203.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%203.jpg",
+      "name": "Colors 2"
+    },
+     {
+      "author": "Mustafa CN",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%205.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/mustafa/29.06.2016%20-%205.jpg",
+      "name": "Colors 3"
+    },
+     {
+      "author": "Thebear Koss",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%2014.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%2014.png",
+      "name": "Skull"
+    },
+     {
+      "author": "Thebear Koss",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%202.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%202.png",
+      "name": "Skull 2"
+    },
+     {
+      "author": "Thebear Koss",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%203.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%203.png",
+      "name": "Skull 3"
+    },
+     {
+      "author": "Thebear Koss",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%205.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/thebear/16%20-%205.png",
+      "name": "Skull 4"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%203.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%203.jpg",
+      "name": "Colored Lines"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204%20(1).jpg",
+      "name": "Colored Lines 2"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/16%20-%204.jpg",
+      "name": "Stormy"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/2016%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/new/2016%20-%204.jpg",
+      "name": "Stormy 2"
+    },
+{
+      "author": "Ashley Knedler",
+      "url": "http://i.imgur.com/sqxgABD.jpg",
+      "thumb": "http://i.imgur.com/sqxgABD.jpg",
+      "name": "Sand Stone"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(1).jpg",
+      "name": "Old School"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%204.jpg",
+      "name": "Sunset"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/9096153551302888804-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/9096153551302888804-account_id%3D1.jpg",
+      "name": "Retro Dude"
+    },
+     {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(4).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(4).jpg",
+      "name": "Special Tree"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(5).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(5).jpg",
+      "name": "Extinguisher"
+    },
+     {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2107254360651367836-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2107254360651367836-account_id%3D1.png",
+      "name": "Pink Smoke"
+    },
+      {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2150519652719777356-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2150519652719777356-account_id%3D1.png",
+      "name": "Blocks"
+    },
+       {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2431620505235895364-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2431620505235895364-account_id%3D1.png",
+      "name": "Little Person"
+    },
+      {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(9).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(9).jpg",
+      "name": "Paper Plane"
+    },
+    {
+      "author": "Om Tiwari",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(7).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/om/2016-06-19%20(7).jpg",
+      "name": "To-Ma-To"
+    },
+
+
+
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(4).jpg",
+      "name": "Buildings"
+    },
+    
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(9).jpg",
+      "name": "Mysterious"
+    }
+    
+  ],
+  "community": [
+    {
+      "author": "Piotr Gałeczka",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Sunset%20by%20the%20Sea.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Sunset%20by%20the%20Sea_thumb.jpeg",
+      "name": "Sunset by the Sea"
+    },
+    {
+      "author": "Piotr Gałeczka",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Crispy%20Sea%20Rocks.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Crispy%20Sea%20Rocks_thumb.jpeg",
+      "name": "Crispy Sea Rocks"
+    },
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Mountain%20cloud.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Mountain%20cloud_thumb.jpeg",
+      "name": "Mountain Cloud"
+    },
+    {
+      "author": "Sdev99",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Ocean%20Amaze_thumb.jpeg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/Ocean%20Amaze.png",
+      "name": "Ocean Amaze"
+    },
+    
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/LG%20G6%20Stock.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/LG%20G6%20Stock_thumb.jpeg",
+      "name": "LG G6 Stock"
+    },
+    {
+      "author": "Ben",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/lights%20off.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads03-03/lights%20off_thumb.jpeg",
+      "name": "Lights Off"
+    },
+    {
+      "author": "Harsh Barsaiyan",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/River%20Valley.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/River%20Valley_thumb.jpeg",
+      "name": "River Valley"
+    },
+    {
+      "author": "Harsh Barsaiyan",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20View.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20View_thumb.jpeg",
+      "name": "Mountain View"
+    },
+     {
+      "author": "Abhishek Malhotra",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20Flower.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/Mountain%20Flower_thumb.jpeg",
+      "name": "Mountain Flower"
+    },
+     {
+      "author": "Mahesh",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/wall.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/User-Uploads-11-02/wall_thumb.jpeg",
+      "name": "Plain Sky Building"
+    },
+    {
+      "author": "Ameet Mathrani",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/downtown.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/downtown_thumb.jpeg",
+      "name": "Downtown"
+    },
+    {
+      "author": "Nick Grandi",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Prague%20Downtown.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/Prague%20Downtown_thumb.jpeg",
+      "name": "Prague Downtown"
+    },
+     {
+      "author": "Pvsquare",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/Joker.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/Joker_thumb.jpeg",
+      "name": "Joker"
+    },
+    {
+      "author": "Pvsquare",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pvsquare/Planes.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pvsquare/Planes.png",
+      "name": "Planes"
+    },
+    {
+      "author": "Deepal Pallav Suthar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/An%20Evening%20Calm.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/An%20Evening%20Calm_thumb.jpeg",
+      "name": "An Evening Calm"
+    },
+    {
+      "author": "Deepal Pallav Suthar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/Cemetery%20Of%20Temples.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/Cemetery%20Of%20Temples_thumb.jpeg",
+      "name": "Cemetery Of Temples"
+    },
+     {
+      "author": "Deepal Pallav Suthar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/The%20Tropaeum%20Of%20Rana.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Deepal%20Pallav%20Suthar/The%20Tropaeum%20Of%20Rana_thumb.jpeg",
+      "name": "The Tropaeum Of Rana"
+    },
+    {
+      "author": "TwntyandSevn",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/city%20of%20adelaide%20.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/city%20of%20adelaide%20_thumb.jpeg",
+      "name": "City of Adelaide"
+    },
+     {
+      "author": "Aunty Mar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/%2Bl.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/%2Bl_thumb.jpeg",
+      "name": "Fence Plants"
+    },
+     {
+      "author": "Jeremy Leonard",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/JLeonard/-Jeremy%20Leonard%20-03.jpeg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/JLeonard/-Jeremy%20Leonard%20-03_thumb.jpeg",
+      "name": "Melbourne View"
+    },
+       {
+      "author": "Pratyush Jar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20Man.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20Man.png",
+      "name": "Material Man 1"
+    },
+    {
+      "author": "Pratyush Jar",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20man%20.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Prety/Material%20man%20.png",
+      "name": "Material Man 2"
+    },
+    {
+      "author": "Jeremy Leonard",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-01.jpeg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-01_thumb.jpeg",
+      "name": "Melbourne 1"
+    },
+    {
+      "author": "Jeremy Leonard",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-02.jpeg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/JeremyL/-jl-02_thumb.jpeg",
+      "name": "Melbourne 2"
+    }
+ 
+  ],
+   "space": [
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Splendor%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Splendor%201%20Preview.jpg",
+      "name": "Splendor"
+    },  
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/Celestial-Fireworks-Hubble-25th-Anniversary-4K-Wallpaper-01.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.0/nick-nice/new2/Celestial-Fireworks-Hubble-25th-Anniversary-4K-Wallpaper-01.jpg",
+      "name": "Galaxy"
+    },
+     {
+      "author": "Alex Chaves",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Alex09-02/7028664132413042737-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Alex09-02/7028664132413042737-account_id%3D1_thumb.jpg",
+      "name": "Starry Night View"
+    },
+       {
+      "author": "Vinoth Ragunathan",
+      "url": "https://raw.githubusercontent.com/UniWalls/UniWalls-Wallpapers/master/Wallpapers/Space/Earth.jpg",
+      "thumb": "https://raw.githubusercontent.com/UniWalls/UniWalls-Wallpapers/master/Wallpapers/Space/Earth_thumb.jpg",
+      "name": "Earth"
+    },
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-04.jpg",
+      "name": "Planet"
+    },
+    
+      {
+      "author": "Ricky Laughlin",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2030.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2030.jpg",
+      "name": "Purple Planet"
+    },
+    {
+      "author": "Ricky Laughlin",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2039.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.1/Ricky-Laughlin/16%20-%2039.jpg",
+      "name": "Purple/Blue Planet"
+    },
+     {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space1_thumb.jpg",
+      "name": "Space 1"
+    },
+    {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space2.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space2_thumb.jpg",
+      "name": "Space 2"
+    },
+    {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space3.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space3_thumb.jpg",
+      "name": "Space 3"
+    },
+{
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space4.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space4_thumb.jpg",
+      "name": "Space 4"
+    },
+     {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space5.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space5_thumb.jpg",
+      "name": "Space 5"
+    },
+     {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space6.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space6_thumb.jpg",
+      "name": "Space 6"
+    },
+      {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space7.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space7_thumb.jpg",
+      "name": "Space 7"
+    },
+      {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space8.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space8_thum.jpg",
+      "name": "Space 8"
+    },
+      {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space9.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/NASA/Space9_thumb.jpg",
+      "name": "Space 9"
+    }
+ 
+  ],
+   "animals": [
+     {
+      "author": "Miui",
+     
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2044.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2044%20Preview.jpg",
+      "name": "Resting Wolf"
+    },    
+      {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20466.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20466%20Preview.jpg",
+      "name": "Looking Cat"
+    },
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20423.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20423%20Preview.jpg",
+      "name": "Cat Looking Down"
+    },
+{
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20506.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20506%20Preview.jpg",
+      "name": "Snowy Cat"
+    },
+     {
+      "author": "Miui",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2043.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2043%20Preview.jpg",
+      "name": "Puppy Dog Looking over Table"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-04-04/2017%20-%202%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-04-04/2017%20-%202%20(1)_thumb.jpg",
+      "name": "Sad Looking Puppy Dog"
+    },
+    {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20493.png",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20493%20Preview.jpg",
+      "name": "Focused Big Cat"
+    }, 
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice/birdy.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice/birdy_thumb.jpg",
+      "name": "Birdy"
+    },
+      {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v86%20(22).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v86%20(22)_thumb.jpeg",
+      "name": "Dog on Leash"
+    },
+     {
+      "author": "Rutwik Patel",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v85%20(4).png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Uploads-28-01/%40OsumWalls%20Dope%20Walls%20v85%20(4)_thumb.jpeg",
+      "name": "Dog Looking Up"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%202.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nice-New-New/2017%20-%202_thumb.jpg",
+      "name": "Eagle Landing"
+    },
+       {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%208.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/nick/16%20-%208.jpg",
+      "name": "Hello"
+    },
+      {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7597138188487556786-account_id%3D1.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/7597138188487556786-account_id%3D1.jpg",
+      "name": "Dog Front"
+    },
+    {
+      "author": "Sheno C",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Sheno-C/ids%20(25).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Sheno-C/ids%20(25).jpg",
+      "name": "Puppy Dog"
+    },
+       {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%205.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D5/nice/2/2016%20-%205_thumb.jpg",
+      "name": "Puppy Close Up"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/6043963464005105080-account_id%3D1.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Unknown/6043963464005105080-account_id%3D1.png",
+      "name": "Dog - View"
+    },
+       {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%2012.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/2016%20-%2012.jpg",
+      "name": "Lion"
+    },
+     {
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Updated/2016-06-19%20(1).jpg",
+      "name": "Print"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%2028.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%2028.jpg",
+      "name": "Sleeping Puppy"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%201.png",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/Nice/2016%20-%201.png",
+      "name": "Poser Cat"
+    },
+     {
+      "author": "ERC Software",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/rat_mod.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/2.2/D1/rat_mod.jpg",
+      "name": "The Rat"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%2013.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%2013_thumb.jpg",
+      "name": "Drinking Tiger"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%205.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%205_thumb.jpg",
+      "name": "Baby Bird"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%204.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%204_thumb.jpg",
+      "name": "Wolf"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%209.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice3/2017%20-%209_thumb.jpg",
+      "name": "Chilled Tiger"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice2/2016%20-%201.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Pro/Nice2/2016%20-%201_thumb.jpg",
+      "name": "Black White Cat"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%201%20(1)_thumb.jpg",
+      "name": "Black Dog"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2016_thumb.jpg",
+      "name": "Little Cute Dog"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018.jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2018_thumb.jpg",
+      "name": "Snuggled"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(1)_thumb.jpg",
+      "name": "Watching"
+    },
+      {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(2)_thumb.jpg",
+      "name": "Interested Cat"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%2019%20(4)_thumb.jpg",
+      "name": "Tight Squeeze"
+    },
+     {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%208%20(2)_thumb.jpg",
+      "name": "Double Looking"
+    },
+       {
+      "author": "Nick Nice",
+      "url": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2).jpg",
+      "thumb": "https://raw.githubusercontent.com/ercsoftware11/wallpaperimages/master/Absolutely-Wallpapers/Nick-Nice/2016%20-%209%20(2)_thumb.jpg",
+      "name": "Lady Beatle"
+    }
+  ],
+  
    "material": [
      {
       "author": "Alex Chaves",
