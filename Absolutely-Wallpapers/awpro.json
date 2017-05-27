@@ -1,5 +1,24 @@
 {
   "new": [
+      {
+      "author": "Unknown",
+      "name": "Alone Leaf",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall530.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall530Preview.jpg"
+    },  
+     {
+      "author": "Unknown",
+      "name": "Cab",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall529.png",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall529Preview.jpg"
+    },       
+       
+    {
+      "author": "Unknown",
+      "name": "Dark City",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall527.jpg",
+      "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall527Preview.jpg"
+    },    
      {
       "author": "Unknown",
       "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Splendor%201.jpg",
@@ -867,6 +886,9 @@
     }
  
   ],
+  "amoled": [
+   
+    ],
   "walls": [
         {
       "author": "ERC",
