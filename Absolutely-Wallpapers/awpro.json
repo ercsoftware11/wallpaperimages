@@ -1,5 +1,61 @@
 {
   "new": [
+    {
+			"name": "Nature Into the Woods",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%201.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%201.jpg",
+			"dimensions": "1365 x 2048",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Ocean",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2010.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2010.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Mountain",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2011.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2011.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature River and Boat",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2012.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2012.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Night Sky",
+			"author": "Nick Nice",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2013.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2013.jpg",
+			"dimensions": "1280 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature White Rocks",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2014.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2014.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Sea and Evening Sky",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2015.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2015.jpg",
+			"dimensions": "2385 x 4240",
+			"category":"nature"
+		},
       {
       "author": "Rutwik Patel",
       "name": "Green Water Rock",
