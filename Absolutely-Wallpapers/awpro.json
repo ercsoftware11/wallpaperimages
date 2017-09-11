@@ -1,59 +1,99 @@
 {
   "new": [
-    {
-			"name": "Nature Into the Woods",
-			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%201.jpg",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%201.jpg",
-			"dimensions": "1365 x 2048",
-			"category":"nature"
-		},
-		{
-			"name": "Nature Ocean",
-			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2010.png",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2010.png",
-			"dimensions": "1080 x 1920",
-			"category":"nature"
-		},
-		{
-			"name": "Nature Mountain",
-			"author": "John",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2011.jpg",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2011.jpg",
+   {
+			"name": "Nature Plant",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20105.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20105.png",
 			"dimensions": "1440 x 2560",
 			"category":"nature"
 		},
 		{
-			"name": "Nature River and Boat",
-			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2012.png",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2012.png",
-			"dimensions": "1080 x 1920",
+			"name": "Nature Purple Flowers",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20106.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20106.png",
+			"dimensions": "1440 x 2560",
 			"category":"nature"
 		},
 		{
-			"name": "Nature Night Sky",
-			"author": "Nick Nice",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2013.jpg",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2013.jpg",
-			"dimensions": "1280 x 1920",
+			"name": "Nature Mountain Range",
+			"author": "Reshad Abd",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20107.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20107.png",
+			"dimensions": "1440 x 2560",
 			"category":"nature"
 		},
 		{
-			"name": "Nature White Rocks",
+			"name": "Nature Lake side",
 			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2014.png",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2014.png",
-			"dimensions": "1080 x 1920",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20108.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20108.png",
+			"dimensions": "1440 x 2560",
 			"category":"nature"
 		},
 		{
-			"name": "Nature Sea and Evening Sky",
+			"name": "Nature Sea shore",
 			"author": "Rutwik Patel",
-			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2015.jpg",
-			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2015.jpg",
-			"dimensions": "2385 x 4240",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20109.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20109.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Rocks in water",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20110.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20110.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Boat in Lake",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20111.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20111.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Boat by land",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20112.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20112.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Evening Palm",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20113.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20113.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Evening sky",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20114.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20114.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Seaside Forest",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20115.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20115.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+		{
+			"name": "Nature Evening Lake",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20116.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20116.png",
+			"dimensions": "1440 x 2560",
 			"category":"nature"
 		},
       {
