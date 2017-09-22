@@ -1,5 +1,53 @@
 {
   "new": [
+	  {
+			"name": "Nature Beautiful Mountain",
+			"author": "John",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2021.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2021.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+	  {
+			"name": "Nature Evening Beach",
+			"author": "Aleks Z",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2070.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2070.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+	  {
+			"name": "Nature Evening sky",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20114.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20114.png",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+	  {
+			"name": "Nature Blue Sea",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20119.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20119.jpg",
+			"dimensions": "1440 x 2560",
+			"category":"nature"
+		},
+	  {
+			"name": "Nature Cliff Kayaking",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2048.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2048.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
+	  {
+			"name": "Nature Blue Night Sky",
+			"author": "Claudio Felicetti",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2080.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%2080.png",
+			"dimensions": "1080 x 1920",
+			"category":"nature"
+		},
    {
 			"name": "Nature Plant",
 			"author": "Reshad Abd",
