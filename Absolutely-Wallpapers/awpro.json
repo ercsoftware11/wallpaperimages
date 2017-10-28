@@ -5,7 +5,39 @@
       "name": "Building Side",
       "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall572.png",
       "thumb": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall572Preview.jpg"
-    },   
+    	}, 
+	{
+		"name": "Circuit Chip",
+		"author": "Nick Nice",
+		"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2023.jpg",
+		"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2023.jpg",
+		"dimensions": "902 x 1600",
+		"category":"others"
+	},
+	  {
+			"name": "Evening Road",
+			"author": "Lucas Rodrigues",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2054.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%2054.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"others"
+		},
+	  {
+			"name": "Cityscape Road side",
+			"author": "Jeremy for Life",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Cityscape/Cityscape%2023.jpg",
+			"dimensions": "1080 x 1920",
+			"category":"cityscape"
+		},
+	  {
+			"name": "Space Purple Stars",
+			"author": "Rutwik Patel",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%208.png",
+			"thumb": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Space/Space%208.png",
+			"dimensions": "1440 x 2560",
+			"category":"space"
+		},
            
      {
       "author": "Unsplash",
