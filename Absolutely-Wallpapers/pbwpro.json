@@ -1,7 +1,25 @@
 {
    "wallpapers": [
        
-       
+        {
+      "author_name": "Unknown",
+      "wallpaper_name": "Amoled New",
+      "wallpaper_id": "inswall-amo-new",
+      "wallpaper_url_source": "https://wallpaperaccess.com/full/391249.jpg",
+      "wallpaper_url_thumbnail": "https://wallpaperaccess.com/full/391249.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "929 KB",
+      "upload_date": "15 may. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Amoled",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+     },
      {
       "author_name": "Unknown",
       "wallpaper_name": "Amoled 32",
